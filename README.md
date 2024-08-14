@@ -25,6 +25,21 @@ Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment.
 - Use open source libraries for GIS data processing,  analysis, and visualization
 - Understand basic code management with Git
 
+
+## Course Topics
+
+- Setting up your environment
+- Basic Python programming concepts
+- Debugging
+- Data processing
+- Spatial analysis
+- Data and map visualization
+- Raster data
+- Github and code management
+- Application development
+
+A detailed schedule is available on Canvas.
+
 ## Prerequisites
 
 There are no formal prerequisites for this course. However, students are expected to have basic computer skills and working knowledge of either Windows/Mac in order to complete assignments.
@@ -86,20 +101,6 @@ More will be introduced during the semster.
 ### Lateness/make-up policy
 Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late assignments will have a penalty of 20% for each late day. Late panelty is implemented automatically through Canvas's gradebook. Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. **Evidence is required**.
 
-
-## Course Topics
-
-- Setting up your environment
-- Basic Python programming concepts
-- Debugging
-- Data processing
-- Spatial analysis
-- Data and map visualization
-- Raster data
-- Github and code management
-- Application development
-
-A detailed schedule is available on Canvas.
 
 ## Student Responsibilities & Expectations
 
