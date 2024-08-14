@@ -20,7 +20,10 @@ Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment.
 
 ## Learning Outcomes
 
--
+- Gain a solid understanding of basic programming concepts
+- Learn basis of Python programming
+- Use open source libraries for GIS data processing,  analysis, and visualization
+- Understand basic code management with Git
 
 ## Prerequisites
 
@@ -30,15 +33,17 @@ There are no formal prerequisites for this course. However, students are expecte
 
 We will be using Canvas/Github sites for hosting course materials. Students are expected to check sites regularly for announcements, lecture slides, materials, grades, assignments, and other postings.
 
-Students will use [Google Colaboratory](https://research.google.com/colaboratory/) for python coding. A Google Account is required.
+Students can use either [Google Colaboratory](https://research.google.com/colaboratory/) or local environment for python coding.
 
 ## Textbooks
 
-No formal requirements on textbooks, but there are a few of useful references:
+No formal requirements on textbooks, but there are a few useful references:
+- [https://greenteapress.com/thinkpython/thinkpython.html](https://greenteapress.com/thinkpython/thinkpython.html)
+- [https://geographicdata.science/book/intro.html](https://geographicdata.science/book/intro.html)
+- [https://automating-gis-processes.github.io/2016/course-info.html](https://automating-gis-processes.github.io/2016/course-info.html)
+- [https://pythongis.org]()
 
-
-I may also occasionally distribute other reading materials.
-
+I will also distribute other resources.
 
 ## Grading and Assignments
 
@@ -46,7 +51,7 @@ Your final grade is based on the following components:
 
 | **Course component**   | **Points**   |
 | ---------------------- | ------------ |
-| 6 assignments          | 12 x 5  = 60 |
+| 12 assignments          | 12 x 5  = 60 |
 | Mid term (take-home exam)          | 15 |
 | Final project (individual)          | 25           |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation | 10           |
@@ -64,40 +69,41 @@ and this scheme:
 | B-               | 80 - 84    | F                | <60        |
 
 ### Assignments
-There will be 12 assignments that will be completed over the duration of this course. Each assignment focuses on one topic. You will be using Python to conduct certain analyses following class examples.
+There will be 12 assignments to be completed over the duration of this course. Assignments will be given on a weekly basis.
 
 ### Midterm
 There will be a midterm test in the format of a take-home exam. You will be given 24 hours to finish a set of python and data analysis tasks and to answer a few questions. 
 
 ### Final Project
+Final projects are individual based. You have the flexibility to choose from three options based on your interests. 
+- **The Data Science Option** involves analyzing a spatial dataset using Python, in which you'll clean, explore, visualize the data, and apply spatial analysis to uncover insights.
+- **The Algorithm Development Option** requires you to design and implement a novel or improved algorithm to solve a specific but replicable spatial problem. You will also need to demostrate the use of your designed algorithm with appropriate data.
+- **The Software Development Option** focuses on creating a Python library, GUI-based or web application that addresses a need in GIS or a practical problem. 
 
-TBD
+More will be introduced during the semster.
 
 ### Lateness/make-up policy
-Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late assignments will have a penalty of 20% for each late day. Late panelty is implemented automatically through Canvas's gradebook.
-
-
-Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. **Evidence is required**.
-
+Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late assignments will have a penalty of 20% for each late day. Late panelty is implemented automatically through Canvas's gradebook. Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. **Evidence is required**.
 
 
 ## Course Topics
 
-- GIS Basics
-- Statistics Basics
-- GIS in Python
-- Intro to Statistical Inference
-- Point Pattern Analysis
-- Spatial Autocorrelation
-- Regression
-- Interactive Visualization
+- Setting up your environment
+- Basic Python programming concepts
+- Debugging
+- Data processing
+- Spatial analysis
+- Data and map visualization
+- Raster data
+- Github and code management
+- Application development
 
 A detailed schedule is available on Canvas.
 
 ## Student Responsibilities & Expectations
 
 ### Classroom Etiquette
-Students are expected to attend all lectures, and to arrive to class on time. Regular attendance is important because exams will include material from in-class discussions. Students are responsible for getting missed class materials from classmates. The instructor will not provide (physical) handouts or notes. 
+Students are expected to attend all lectures, and to arrive to class on time. Students are responsible for getting missed class materials from classmates. The instructor will not provide (physical) handouts or notes. 
 
 Students are expected to come to class having read the reading assignments, to be attentive and ready to learn, to participate in class discussions with pertinent questions and ideas, and to be respectful of fellow students. Classroom disturbances like personal conversations and ringing cell phones are not welcome.
 
