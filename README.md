@@ -24,6 +24,7 @@ Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment.
 - Learn basis of Python programming
 - Use open source libraries for GIS data processing,  analysis, and visualization
 - Understand basic code management with Git
+- Build reusable Python library and application
 
 
 ## Course Topics
@@ -67,9 +68,9 @@ Your final grade is based on the following components:
 | **Course component**   | **Points**   |
 | ---------------------- | ------------ |
 | 12 assignments          | 12 x 5  = 60 |
-| Mid term (take-home exam)          | 15 |
-| Final project (individual)          | 25           |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code | 5           |
+| Mid term (take-home exam)          | 10 |
+| Final project (individual)          | 30           |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code | 10           |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation       | 10           |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Report       | 10           |
 | Total possible         | **100**      |
@@ -92,8 +93,8 @@ There will be a midterm test in the format of a take-home exam. You will be give
 
 ### Final Project
 Final projects are individual based. You have the flexibility to choose from three options based on your interests. 
-- **The Data Science Option** involves analyzing a spatial dataset using Python, in which you'll clean, explore, visualize the data, and apply spatial analysis to uncover insights.
-- **The Algorithm Development Option** requires you to design and implement a novel or improved algorithm to solve a specific but replicable spatial problem. You will also need to demostrate the use of your designed algorithm with appropriate data.
+- **The Data Science Option** involves analyzing a spatial dataset using Python. You will need to fine your own data, then clean, explore, visualize the data, and apply spatial analysis to find insights or answer a research question.
+- **The Algorithm Development Option** requires you to design and implement a novel or improved algorithm to solve a specific but replicable spatial problem. You will also need to demostrate the use of your designed algorithm with an example.
 - **The Software Development Option** focuses on creating a Python library, GUI-based or web application that addresses a need in GIS or a practical problem. 
 
 More will be introduced during the semster.
