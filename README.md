@@ -54,8 +54,9 @@ Your final grade is based on the following components:
 | 12 assignments          | 12 x 5  = 60 |
 | Mid term (take-home exam)          | 15 |
 | Final project (individual)          | 25           |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation | 10           |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Report       | 15           |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code | 5           |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation       | 10           |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Report       | 10           |
 | Total possible         | **100**      |
 
 
