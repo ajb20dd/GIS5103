@@ -1,6 +1,6 @@
 # GIS5103 GIS Programming Fall 2024
 
-Florida State Univerity
+Florida State University
 
 Class meets: 9:45am - 12:15pm Thur @ BEL 320A
 
@@ -93,7 +93,7 @@ There will be a midterm test in the format of a take-home exam. You will be give
 
 ### Final Project
 Final projects are individual based. You have the flexibility to choose from three options based on your interests. 
-- **The Data Science Option** involves analyzing a spatial dataset using Python. You will need to fine your own data, then clean, explore, visualize the data, and apply spatial analysis to find insights or answer a research question.
+- **The Data Science Option** involves analyzing a spatial dataset using Python. You will need to find your own data, then clean, explore, visualize the data, and apply spatial analysis to find insights or answer a research question.
 - **The Algorithm Development Option** requires you to design and implement a novel or improved algorithm to solve a specific but replicable spatial problem. You will also need to demostrate the use of your designed algorithm with an example.
 - **The Software Development Option** focuses on creating a Python library, GUI-based or web application that addresses a need in GIS or a practical problem. 
 
