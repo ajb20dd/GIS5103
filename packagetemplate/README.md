@@ -1,1 +1,1 @@
-This is a placeholder file
+This is a demo package to calculate the arc distance between two locations. It requires the lat/long coords for both locations.

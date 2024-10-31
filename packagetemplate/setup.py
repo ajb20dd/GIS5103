@@ -3,9 +3,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="package",
+    name="demopackage",
     version="0.1.0",
-    description="A sample Python package",
+    description="A sample Python package with minor geospatial applications.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Alexander Bedine",
