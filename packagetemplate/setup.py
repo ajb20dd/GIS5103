@@ -8,9 +8,9 @@ setup(
     description="A sample Python package",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/https://github.com/ajb20dd/GIS5103",
+    author="Alexander Bedine",
+    author_email="ajb20dd@fsu.edu",
+    url="https://github.com/ajb20dd/GIS5103",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

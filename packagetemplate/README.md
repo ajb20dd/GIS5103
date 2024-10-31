@@ -1,1 +1,1 @@
-This is a placehold file
+This is a placeholder file
