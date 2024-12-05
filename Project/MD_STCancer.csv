@@ -1,25 +1,25 @@
-County,FIPS,2023 Rural-Urban Continuum Codes([rural urban note]),ageadj_incdrate,low95,upper95,5yr_incdtrend,low95_trend,upper95_trend
-Baltimore City(6),24510,Urban,9,7.9,10.1,-0.3,-1.6,1
-Caroline County(6),24011,Rural,8.8,5.1,14.1,NaN,NaN,NaN
-Dorchester County(6),24019,Rural,8.7,5.3,13.8,NaN,NaN,NaN
-St. Marys County(6),24037,Urban,8.4,6.3,11,0.3,-4.4,5.9
-Queen Annes County(6),24035,Urban,8.2,5.4,12.1,NaN,NaN,NaN
-Wicomico County(6),24045,Urban,7.9,5.7,10.6,3.4,0.5,7.1
-Charles County(6),24017,Urban,7.9,6.1,10,0.5,-2.6,4.3
-Prince Georges County(6),24033,Urban,7.5,6.8,8.3,0.3,-0.6,1.3
-Allegany County(6),24001,Rural,7.3,4.9,10.6,3.9,0.2,8.2
-Baltimore County(6),24005,Urban,7,6.3,7.8,1.2,0.2,2.3
-Worcester County(6),24047,Rural,6.9,4.2,10.9,0.9,-4.6,6.4
-Cecil County(6),24015,Urban,6.9,4.9,9.3,2.7,-1.6,8.1
-Montgomery County(6),24031,Urban,6.7,6.1,7.4,0.3,-0.8,1.6
-Harford County(6),24025,Urban,6.2,5.1,7.6,1.4,-1.5,4.8
-Howard County(6),24027,Urban,6.2,5.1,7.5,-0.2,-2.1,2.2
-Calvert County(6),24009,Urban,6,4.1,8.7,0.5,-2.8,4.4
-Frederick County(6),24021,Urban,5.7,4.6,7.1,-6.9,-17.3,0.8
-Anne Arundel County(6),24003,Urban,5.6,4.8,6.4,-0.5,-2.2,1.4
-Carroll County(6),24013,Urban,4.6,3.4,6.1,0.1,-3.6,4.5
-Washington County(6),24043,Urban,4.3,3.1,5.8,0.2,-4.2,5.4
-Talbot County(6),24041,Rural,4,2.3,7.2,NaN,NaN,NaN
-Garrett County(6),24023,Rural,NaN,NaN,NaN,NaN,NaN,NaN
-Kent County(6),24029,Rural,NaN,NaN,NaN,NaN,NaN,NaN
-Somerset County(6),24039,Urban,NaN,NaN,NaN,NaN,NaN,NaN
+County,FIPS,2023 Rural-Urban Continuum Codes([rural urban note]),ageadj_incdrate,low95,upper95,5yr_incdtrend,low95_trend,upper95_trend,CRUDE
+Baltimore City(6),24510,Urban,9,7.9,10.1,-0.3,-1.6,1,6
+Caroline County(6),24011,Rural,8.8,5.1,14.1,NaN,NaN,NaN,38
+Dorchester County(6),24019,Rural,8.7,5.3,13.8,NaN,NaN,NaN,58
+St. Marys County(6),24037,Urban,8.4,6.3,11,0.3,-4.4,5.9,76
+Queen Annes County(6),24035,Urban,8.2,5.4,12.1,NaN,NaN,NaN,6
+Wicomico County(6),24045,Urban,7.9,5.7,10.6,3.4,0.5,7.1,4
+Charles County(6),24017,Urban,7.9,6.1,10,0.5,-2.6,4.3,11
+Prince Georges County(6),24033,Urban,7.5,6.8,8.3,0.3,-0.6,1.3,9
+Allegany County(6),24001,Rural,7.3,4.9,10.6,3.9,0.2,8.2,14
+Baltimore County(6),24005,Urban,7,6.3,7.8,1.2,0.2,2.3,4
+Worcester County(6),24047,Rural,6.9,4.2,10.9,0.9,-4.6,6.4,18
+Cecil County(6),24015,Urban,6.9,4.9,9.3,2.7,-1.6,8.1,3
+Montgomery County(6),24031,Urban,6.7,6.1,7.4,0.3,-0.8,1.6,20
+Harford County(6),24025,Urban,6.2,5.1,7.6,1.4,-1.5,4.8,23
+Howard County(6),24027,Urban,6.2,5.1,7.5,-0.2,-2.1,2.2,3
+Calvert County(6),24009,Urban,6,4.1,8.7,0.5,-2.8,4.4,86
+Frederick County(6),24021,Urban,5.7,4.6,7.1,-6.9,-17.3,0.8,78
+Anne Arundel County(6),24003,Urban,5.6,4.8,6.4,-0.5,-2.2,1.4,6
+Carroll County(6),24013,Urban,4.6,3.4,6.1,0.1,-3.6,4.5,3
+Washington County(6),24043,Urban,4.3,3.1,5.8,0.2,-4.2,5.4,11
+Talbot County(6),24041,Rural,4,2.3,7.2,NaN,NaN,NaN,3
+Garrett County(6),24023,Rural,NaN,NaN,NaN,NaN,NaN,NaN,9
+Kent County(6),24029,Rural,NaN,NaN,NaN,NaN,NaN,NaN,10
+Somerset County(6),24039,Urban,NaN,NaN,NaN,NaN,NaN,NaN,5
